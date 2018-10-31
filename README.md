@@ -1,7 +1,7 @@
 # dictest
 
 [![Build Status](https://travis-ci.com/dsm-helper/EngExam-Helper.svg?branch=master)](https://travis-ci.com/dsm-helper/EngExam-Helper)
-![Language-Python](https://img.shields.io/badge/language-python-blue.svg)
+![Language-Python](https://img.shields.io/badge/python-3.6%20%7C%203.7-blue.svg)
 
 대덕소프트웨어마이스터고등학교 영어 단어 수행평가 학습을 도와주는 모의 시험 프로그램입니다.
 
